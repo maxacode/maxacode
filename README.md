@@ -1,5 +1,5 @@
 
-### Hi Everyone! Im learning 🔭 Python day by day, follow along on the Journey! 
+### Hi, I'm just a Cyber Security nerd, doing cool python stuff!
 ## Feel free to reach out with anything 💬
 
 <img align="left" width="430" height="auto" alt="maxacode's github stats" src="https://github-readme-stats.vercel.app/api?username=maxacode&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
